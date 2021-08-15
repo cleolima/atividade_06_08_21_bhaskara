@@ -21,8 +21,7 @@ for ($i= $b_min; $i <= $Bmax; $i++) {
 }
 $c_valores = array();
 for ($i= $c_min; $i <= $Cmax; $i++) {
-  $b_valores[] = $i;
- 
+ $c_valores[] = $i;
 }
 
 
