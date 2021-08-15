@@ -1,0 +1,2 @@
+# atividade_06_08_21_bhaskara
+bhaskara_2
